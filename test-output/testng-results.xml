@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56" started-at="2019-09-12T05:11:02Z" finished-at="2019-09-12T05:11:02Z">
+    <groups>
+      <group name="hr">
+        <method signature="TestNG12.hr()[pri:0, instance:testNGPackage.TestNG12@1810399e]" name="hr" class="testNGPackage.TestNG12"/>
+      </group> <!-- hr -->
+      <group name="it_department">
+        <method signature="TestNG12.dot_net()[pri:0, instance:testNGPackage.TestNG12@1810399e]" name="dot_net" class="testNGPackage.TestNG12"/>
+        <method signature="TestNG12.java()[pri:0, instance:testNGPackage.TestNG12@1810399e]" name="java" class="testNGPackage.TestNG12"/>
+        <method signature="TestNG12.tester()[pri:0, instance:testNGPackage.TestNG12@1810399e]" name="tester" class="testNGPackage.TestNG12"/>
+      </group> <!-- it_department -->
+    </groups>
+    <test name="Default test" duration-ms="56" started-at="2019-09-12T05:11:02Z" finished-at="2019-09-12T05:11:02Z">
+      <class name="testNGPackage.TestNG12">
+        <test-method status="PASS" signature="dot_net()[pri:0, instance:testNGPackage.TestNG12@1810399e]" name="dot_net" duration-ms="13" started-at="2019-09-12T05:11:02Z" finished-at="2019-09-12T05:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dot_net -->
+        <test-method status="PASS" signature="hr()[pri:0, instance:testNGPackage.TestNG12@1810399e]" name="hr" duration-ms="2" started-at="2019-09-12T05:11:02Z" finished-at="2019-09-12T05:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hr -->
+        <test-method status="PASS" signature="java()[pri:0, instance:testNGPackage.TestNG12@1810399e]" name="java" duration-ms="2" started-at="2019-09-12T05:11:02Z" finished-at="2019-09-12T05:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- java -->
+        <test-method status="PASS" signature="tester()[pri:0, instance:testNGPackage.TestNG12@1810399e]" name="tester" duration-ms="2" started-at="2019-09-12T05:11:02Z" finished-at="2019-09-12T05:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tester -->
+      </class> <!-- testNGPackage.TestNG12 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
